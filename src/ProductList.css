@@ -65,7 +65,8 @@ body {
     max-width: calc(26.33% - 20px); /* Adjust max-width for 3 cards per row with 20px gap */
     margin-bottom: 20px;
     padding: 20px;
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.7);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border: 1px solid #ccc;
     border-radius: 5px;
     text-align: center;
@@ -201,6 +202,7 @@ body {
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
+    border-radius: 5px;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;

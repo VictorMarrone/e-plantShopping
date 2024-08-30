@@ -99,7 +99,8 @@
   left: 0;
   width: 100%;
   height: 100vh;
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.9); /* BACKGROUND-COLOR ----> COLOCAR BACKGROUND-IMAGE*/
+  background-image: url("https://wallpapers.com/images/hd/colorful-tulips-flower-field-7840tschdwi1493f.jpg");
   /* Adjust background opacity as needed */
   transition: top 0.5s ease;
   /* Smooth transition for top property */
